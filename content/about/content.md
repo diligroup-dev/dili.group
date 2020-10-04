@@ -1,21 +1,7 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
+# Hồ sơ công ty
+- Tên quốc tế: DILI GROUP COMPANY LIMITED
+- Tên viết tắt:DILI GROUP
+- Mã số thuế:0316230440
+- Địa chỉthuế:Nhà số 8, Đường 7A, Khu đô thị Lakeview City, Phường An Phú, Quận 2, Thành phố Hồ Chí Minh
+- Đại diện pháp luật: **Lê Chí Linh**
 
-```
-# Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
-
-# To develop
-yarn develop
-
-# To build
-yarn build
-
-# To test SSR (for Lighthouse etc.)
-yarn ssr
-
-# To format JS (precommit)
-yarn format
-
-# To generate favicons (included in `build`)
-yarn build:favicons
-```

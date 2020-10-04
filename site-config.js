@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
+  siteTitle: `DILI GROUP COMPANY LIMITED`,
+  siteTitleShort: `DILI GROUP`,
+  siteDescription: `DILI`,
+  siteUrl: `https://dili.group`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,

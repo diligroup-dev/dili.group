@@ -2,18 +2,18 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
+    "title": "Marketing Online",
     "copy": "For global styles.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "Knowledge Sharing",
+    "copy": "Start-ups ideas and innovations.",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
+    "title": "Leadership",
+    "copy": "How to work with people.",
     "image": "../images/gallery/intersection-observer.jpg"
   }]
 }
